@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MindfulAIHive
+- 👋 Hi, I’m @Kazimzaidi
 - 👀 I’m interested in AI creation and web development projects.
 - 🌱 I’m currently learning advanced AI techniques and mastering web development skills.
 - 💞️ I’m looking to collaborate on innovative projects that integrate AI with web technologies.
